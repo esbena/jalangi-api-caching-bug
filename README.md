@@ -1,6 +1,6 @@
 # jalangi-api-caching-bug
 Proof-of-concept Jalangi-bug.
-See https://github.com/Samsung/jalangi2/issues/58
+See ~~https://github.com/Samsung/jalangi2/issues/58~~ (fixed)
 
 ## Setup:
 ```
